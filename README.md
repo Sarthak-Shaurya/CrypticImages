@@ -4,13 +4,13 @@ Steganography, the ancient art of concealing information within innocuous medium
 
 
 <h4><b>Team Members:</b></h4>
-1) Aryan Chaudhary (Enrl No.- 22115031, Email id - aryan_c@ece.iitr.ac.in)
-2) Nitesh Thalor (Enrl No.- 22116062, Email id - nitesh_t@ece.iitr.ac.in)
-3) Pandit Jwalit Tusharbhai (Enrl No.- 22117099, Email id - pandit_jt@ece.iitr.ac.in)
-4) Sarthak Shaurya (Enrl No.- 22116082, Email id - sarthak_s@ece.iitr.ac.in)
+1) Aryan Chaudhary (Enrl No.- 22115031, Email id - aryan_c@ece.iitr.ac.in)<br>
+2) Nitesh Thalor (Enrl No.- 22116062, Email id - nitesh_t@ece.iitr.ac.in)<br>
+3) Pandit Jwalit Tusharbhai (Enrl No.- 22117099, Email id - pandit_jt@ece.iitr.ac.in)<br>
+4) Sarthak Shaurya (Enrl No.- 22116082, Email id - sarthak_s@ece.iitr.ac.in)<br>
 
 <h4><b>References:</b></h4>
-1) https://www.kaggle.com/c/alaska2-image-steganalysis
+1) https://www.kaggle.com/c/alaska2-image-steganalysis<br>
 2) 
 
 
