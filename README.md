@@ -1,1 +1,5 @@
 # CrypticImages
+
+Steganography, the ancient art of concealing information within innocuous mediums, has undergone a metamorpho- sis in the digital age, finding profound applications in secure communication, watermarking, and covert data transmis- sion. This study meticulously investigates and implements an ensemble of steganographic methodologies, transcending both spatial and frequency domains, to explore their efficacy, robustness, and adaptability under diverse operational scenarios. The implemented algorithms span foundational techniques such as Least Significant Bit (LSB) manipula- tion and Discrete Cosine Transform (DCT) encoding, alongside avant-garde approaches like edge-based steganography, histogram shifting, random pixel embedding, and frequency-domain transformations such as Fast Fourier Transform (FFT) and Discrete Wavelet Transform (DWT). The report culminates in a comparative analysis of these techniques, highlighting their trade-offs in terms of imperceptibility, payload capacity, and resilience against steganalysis, thereby contributing to the burgeoning corpus of knowledge in the realm of steganographic sciences.
+
+
