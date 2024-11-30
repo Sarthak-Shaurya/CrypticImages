@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Encode Message</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Embed Message into Image</h2>
+        <form action="{{ url_for('encode_route') }}" method="post" enctype="multipart/form-data">
+            <label for="file">Select Image:</label>
+            <input type="file" name="file" accept="image/*" required>
+
+            <label for="message">Message to Embed:</label>
+            <input type="text" name="message" placeholder="Enter your secret message" required>
+
+            <label for="algorithm">Select Algorithm:</label>
+            <select name="algorithm" required>
+                <option value="LSB">Least Significant Bit (LSB)</option>
+                <option value="DCT">Discrete Cosine Transform (DCT)</option>
+                <option value="Edge Based Embedding">Edge Based Steganography</option>
+                <option value="Histogram Shifting">Histogram Shifting</option>
+                <option value="Random Pixel Embedding">Random Pixel Embedding</option>
+                <option value="FFT">Fast Fourier Transform (FFT)</option>
+                <option value="DWT">Discrete Wavelet Transform (DWT)</option>
+                <option value="PVD">Pixel Value Differencing (PVD)</option>
+            </select>
+
+            <button type="submit">Embed Message</button>
+        </form>
+        <a href="/" class="back-link">← Back to Home</a>
+    </div>
+</body>
+</html>
