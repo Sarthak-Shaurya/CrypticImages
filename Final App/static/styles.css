@@ -1,0 +1,172 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Container Styling */
+.container {
+    max-width: 681px;
+    margin: 50px auto;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Text Styling */
+h1, h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.intro-text {
+    text-align: center;
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+/* Button Group Styling */
+.button-group {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 25px;
+}
+
+.button {
+    padding: 12px 20px;
+    text-decoration: none;
+    background-color: #007bff;
+    color: #ffffff;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s, transform 0.1s;
+}
+
+.button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+/* Form Styling */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+label {
+    font-weight: bold;
+    color: #555;
+}
+
+input[type="file"],
+input[type="text"],
+select {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: border-color 0.3s;
+}
+
+input[type="file"]:hover,
+input[type="text"]:hover,
+select:hover {
+    border-color: #007bff;
+}
+
+/* Submit Button Styling */
+button {
+    padding: 12px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #28a745;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.1s;
+}
+
+button:hover {
+    background-color: #218838;
+    transform: translateY(-2px);
+}
+
+/* Back Link Styling */
+.back-link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #007bff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.back-link:hover {
+    color: #0056b3;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.images {
+    display: flex;
+    gap: 20px;
+}
+
+.images img {
+    width: 200px;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.metrics {
+    text-align: center;
+    margin-top: 32px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 32px;
+}
+.image-comparison {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    margin: 32px 6px;
+}
+
+.image-comparison div {
+    text-align: center;
+}
+
+.image-comparison img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.image-comparison h3 {
+    margin-bottom: 10px;
+    color: #555;
+}
