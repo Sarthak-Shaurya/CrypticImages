@@ -10,7 +10,10 @@ Steganography, the ancient art of concealing information within innocuous medium
 4) Sarthak Shaurya (Enrl No.- 22116082, Email id - sarthak_s@ece.iitr.ac.in)<br>
 
 <h4><b>References:</b></h4>
-1) https://www.kaggle.com/c/alaska2-image-steganalysis<br>
-2) 
-
+[1] Alaa Almaliki, Farah Alyousuf, and Roshidi Din, ”Analysis review on spatial and transform domain technique in digital steganography,” Bulletin of Electrical Engineering and Informatics, vol. 9, pp. 573–581, Apr. 2020, doi: 10.11591/eei.v9i2.2068.<br>
+[2] Chaithra I. V, Sunitha M. R, and Vivekananda, ”A reversible steganography using prediction value coding and histogram shift- ing,” in 2019 1st International Conference on Advances in Information Technology (ICAIT), 2019, pp. 534–539, doi: 10.1109/I- CAIT47043.2019.8987322.<br>
+[3] Rasber Dh. Rashid and Taban F. Majeed, ”Edge Based Image Steganography: Problems and Solution,” in 2019 International Conference on Communications, Signal Processing, and their Applications (ICCSPA), 2019, pp. 1–5, doi: 10.1109/ICCSPA.2019.8713712.<br>
+[4] NishantMadhukarSurseandPreetidaVinayakray-Jani,”AcomparativestudyonrecentimagesteganographytechniquesbasedonDWT,” in 2017 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET), 2017, pp. 1308–1314, doi: 10.1109/WiSPNET.2017.8299975.<br>
+[5] Ntivuguruzwa Jean De La Croix, Tohari Ahmad, and Fengling Han, ”Comprehensive survey on image steganalysis using deep learning,” Array, vol. 22, p. 100353, 2024, doi: 10.1016/j.array.2024.100353.<br>
+[6] ”Kaggle - ALASKA2 Image Steganalysis,” 2024. [Online]. Available: https://www.kaggle.com/c/alaska2-image-steganalysis.<br>
 
